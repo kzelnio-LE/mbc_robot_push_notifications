@@ -1,0 +1,36 @@
+{
+    "robots": {
+        "ROBOT1": {
+            "fnumber": "F256763",
+            "ip_address": "127.0.0.1",
+            "last_updated": "2022-11-01 11:57:12",
+            "snpx_port": 18245,
+            "update_rate": 5
+        },
+        "ROBOT2": {
+            "fnumber": "F258134",
+            "ip_address": "127.0.0.1",
+            "last_updated": "2022-11-01 11:57:16",
+            "snpx_port": 9020,
+            "update_rate": 5
+        },
+        "ROBOT3": {
+            "fnumber": "F258135",
+            "ip_address": "127.0.0.1",
+            "last_updated": "2022-11-01 11:57:20",
+            "snpx_port": 9022,
+            "update_rate": 5
+        },
+        "ROBOT4": {
+            "fnumber": "F258136",
+            "ip_address": "127.0.0.1",
+            "last_updated": "2022-11-01 12:18:18",
+            "snpx_port": 9024,
+            "update_rate": 5
+        }
+    },
+    "system": {
+        "date_format": "%Y-%m-%d %H:%M:%S",
+        "api_url":  "assets.mclbody.com"
+    }
+}
